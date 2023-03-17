@@ -6,4 +6,4 @@ Create a read me file which would contain the details of the project.
 A TextMe File would be there which would contain the name of the project, your group number , number of members with their name and University Roll number.
 A code file.
 
-In Total every group needs to uplaod 4 files as mentioned above.
+In Total every group needs to upload 4 files as mentioned above.
